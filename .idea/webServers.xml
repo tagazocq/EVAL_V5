@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61256327-5e8e-4cda-bc3c-923b6218c4cc" name="XAMPP" url="http://localhost/EVAL_V5/">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\EVAL_V5" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
